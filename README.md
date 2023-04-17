@@ -58,6 +58,7 @@ This project uses the following major dependencies:
 - Redux: A predictable state container for managing the global state of the application.
 
 ## Folder Structure
+```bash
 - [.gitignore](.gitignore)
 - [App.tsx](App.tsx)
 - [README.md](README.md)
@@ -84,4 +85,5 @@ This project uses the following major dependencies:
 - [tsconfig.json](tsconfig.json)
 - [yarn-error.log](yarn-error.log)
 - [yarn.lock](yarn.lock)
+```
 
