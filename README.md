@@ -13,3 +13,11 @@ This is a simple counter application built using React Native, Expo, Paper UI, a
 - Use of Redux for state management.
 - Use of Expo for easy cross-platform development.
 - Use of Paper UI for a modern and responsive user interface.
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/GopalVerma1303/RN-paper-ui.git
+```
+2. 
