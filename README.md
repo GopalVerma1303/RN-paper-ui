@@ -4,7 +4,7 @@ This is a simple counter application built using React Native, Expo, Paper UI, a
 
 ## Screenshots
 
-![Counter App Screenshot 1](/screenshots/screenshot-1.png)
+![Counter App Screenshot 1](assets/screenshots/screenshot-1.png)
 
 ## Features
 
