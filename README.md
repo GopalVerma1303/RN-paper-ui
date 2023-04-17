@@ -63,24 +63,24 @@ This project uses the following major dependencies:
 - [App.tsx](App.tsx)
 - [README.md](README.md)
 - [app.json](app.json)
-- assets/
+|-- assets/
   - [adaptive-icon.png](assets/adaptive-icon.png)
   - [favicon.png](assets/favicon.png)
   - [icon.png](assets/icon.png)
-  - screenshots/
+  |-- screenshots/
     - [screenshot-1.png](assets/screenshots/screenshot-1.png)
   - [splash.png](assets/splash.png)
 - [babel.config.js](babel.config.js)
 - [package-lock.json](package-lock.json)
 - [package.json](package.json)
-- src/
-  - redux/
-    - actions/
+|-- src/
+  |-- redux/
+    |-- actions/
       - [counterActions.ts](src/redux/actions/counterActions.ts)
-    - reducers/
+    |-- reducers/
       - [countReducer.ts](src/redux/reducers/countReducer.ts)
     - [store.ts](src/redux/store.ts)
-  - screens/
+  |-- screens/
     - [Home.tsx](src/screens/Home.tsx)
 - [tsconfig.json](tsconfig.json)
 - [yarn-error.log](yarn-error.log)
