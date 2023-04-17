@@ -58,9 +58,9 @@ This project uses the following major dependencies:
 - Redux: A predictable state container for managing the global state of the application.
 
 ## Folder Structure
--├── [.gitignore](.gitignore)
--├── [App.tsx](App.tsx)
--├── [README.md](README.md)
+- ├── [.gitignore](.gitignore)
+- ├── [App.tsx](App.tsx)
+- ├── [README.md](README.md)
 ├── [app.json](app.json)
 ├── assets/
 │  ├── [adaptive-icon.png](assets/adaptive-icon.png)
