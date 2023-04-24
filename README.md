@@ -18,35 +18,24 @@ This is a simple counter application built using React Native, Expo, Paper UI, a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/GopalVerma1303/RN-paper-ui.git
+git clone https://github.com/sparsh44/Comders_IEEE.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd RN-paper-ui
+cd Comders_IEEE/client
 ```
 
-3. Install dependencies using npm or yarn:
+3. Install dependencies using npm:
 ```bash
 npm install
-``` 
-or
-```bash
-yarn install
 ``` 
 
 4. Start the Expo development server:
 ```bash
-npm start
+npm run start
 ``` 
-or
-```bash
-yarn start
-``` 
-
-
-5. Use Expo Go app on your iOS or Android device to scan the QR code displayed in the Expo development server to run the app on your device.
 
 ## Dependencies
 
